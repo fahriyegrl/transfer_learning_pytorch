@@ -1,0 +1,2 @@
+# transfer_learning_pytorch
+transfer_learning_pytorch by torchvision.models.efficientnet_b0
